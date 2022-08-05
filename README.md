@@ -6,5 +6,5 @@
 <br/>
 
 <!---About me--->
-- 📲 Se te guiara a un enlace externo (Google Drive) en donde encontraras la carpeta con el juego y el APK **Click en el siguiente enlace:**.
-- 🔗 **https://drive.google.com/drive/folders/1KEOaDCRKmNjOZWByWDy6fbuHr02zOq9F**
+- 📲 Se te guiara a un enlace externo en donde encontraras la carpeta con el juego y el APK.
+- 🔗 Click en el siguiente enlace de Google Drive **https://drive.google.com/drive/folders/1KEOaDCRKmNjOZWByWDy6fbuHr02zOq9F**
